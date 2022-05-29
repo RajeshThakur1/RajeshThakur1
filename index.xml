@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rajesh Thakur</title>
+    <link>https://RajeshThakur1.github.io/RajeshThakur1/</link>
+    <description>Recent content on Rajesh Thakur</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Apr 2022 11:14:48 -0400</lastBuildDate><atom:link href="https://RajeshThakur1.github.io/RajeshThakur1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project IV: Intent and Entity classification Model</title>
+      <link>https://RajeshThakur1.github.io/RajeshThakur1/post/project-4/</link>
+      <pubDate>Tue, 12 Apr 2022 11:14:48 -0400</pubDate>
+      
+      <guid>https://RajeshThakur1.github.io/RajeshThakur1/post/project-4/</guid>
+      <description>While the pensioner of Ghent and his eminence were exchanging very low bows and a few words in voices still lower, a man of lofty stature, with a large face and broad shoulders, presented himself, in order to enter abreast with Guillaume Rym; one would have pronounced him a bull-dog by the side of a fox. His felt doublet and leather jerkin made a spot on the velvet and silk which surrounded him.</description>
+    </item>
+    
+    <item>
+      <title>Project III: Automatic Cheque Book Processing ( Ongoing )</title>
+      <link>https://RajeshThakur1.github.io/RajeshThakur1/post/project-3/</link>
+      <pubDate>Mon, 11 Apr 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://RajeshThakur1.github.io/RajeshThakur1/post/project-3/</guid>
+      <description>Technology: python, flask, AWS, jupyter notebook, Machine Learning, Deep Learning, Computer Vission
+To build an automatic system where user will only upload the image of the cheque book and system will accept or reject based on the validation of all the fields in the Cheque Slip. Technologies used: Python, Tensor flow 2.x, Keras, PyQt, Appium, Selenium, OCR(Custom and prebuild both). Use various Image Preprocessing techniques on the initial image to get the better extraction of the data before passing to the OCR Manipulated the coordinates of the bounding box using OpenCV to get the better area of the Text.</description>
+    </item>
+    
+    <item>
+      <title>Project II: Electronic Health Recognization[EHR]</title>
+      <link>https://RajeshThakur1.github.io/RajeshThakur1/post/project-2/</link>
+      <pubDate>Wed, 10 Apr 2019 11:00:59 -0400</pubDate>
+      
+      <guid>https://RajeshThakur1.github.io/RajeshThakur1/post/project-2/</guid>
+      <description>Technology: python, flask, AWS, jupyter notebook, Machine Learning
+Early detection of any preventable diseases is important for better disease management, improved interventions, and more efficient health-care resource allocation. We have seen since past decade we witnessed a sky-rocketing increase of information in Electronic Health Record (EHR) systems. Structured patient information like demographics, disease history, lab results, procedures and medications. By our project we can detect the diseases.</description>
+    </item>
+    
+    <item>
+      <title>Project I: SAAS Base Ecomarce Application uning Flask</title>
+      <link>https://RajeshThakur1.github.io/RajeshThakur1/post/project-1/</link>
+      <pubDate>Mon, 09 Apr 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://RajeshThakur1.github.io/RajeshThakur1/post/project-1/</guid>
+      <description>Three hundred and forty-eight years, six months, and nineteen days ago to-day, the Parisians awoke to the sound of all the bells in the triple circuit of the city, the university, and the town ringing a full peal.
+The sixth of January, 1482, is not, however, a day of which history has preserved the memory. There was nothing notable in the event which thus set the bells and the bourgeois of Paris in a ferment from early morning.</description>
+    </item>
+    
+    <item>
+      <title>Project VI: Esmeralda</title>
+      <link>https://RajeshThakur1.github.io/RajeshThakur1/post/project-6/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://RajeshThakur1.github.io/RajeshThakur1/post/project-6/</guid>
+      <description>We are delighted to be able to inform the reader, that during the whole of this scene, Gringoire and his piece had stood firm. His actors, spurred on by him, had not ceased to spout his comedy, and he had not ceased to listen to it. He had made up his mind about the tumult, and was determined to proceed to the end, not giving up the hope of a return of attention on the part of the public.</description>
+    </item>
+    
+    <item>
+      <title>Project V: Quasimodo</title>
+      <link>https://RajeshThakur1.github.io/RajeshThakur1/post/project-5/</link>
+      <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
+      
+      <guid>https://RajeshThakur1.github.io/RajeshThakur1/post/project-5/</guid>
+      <description>In the twinkling of an eye, all was ready to execute Coppenole’s idea. Bourgeois, scholars and law clerks all set to work. The little chapel situated opposite the marble table was selected for the scene of the grinning match. A pane broken in the pretty rose window above the door, left free a circle of stone through which it was agreed that the competitors should thrust their heads. In order to reach it, it was only necessary to mount upon a couple of hogsheads, which had been produced from I know not where, and perched one upon the other, after a fashion.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://RajeshThakur1.github.io/RajeshThakur1/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://RajeshThakur1.github.io/RajeshThakur1/about/</guid>
+      <description>Data Scientiest at Zuma   Rajesh Thakur (India: Bangalore India) Data Science and Sports Analytics are my passion. My Name is Rajesh Thakur and I am currently part a team of Machine Learning Scientists/Engineers at Zuma (YC21, a16z). We are a rapidly growing startup looking to build a meaningful, impactful platform to help leasing teams provide 24/7 coverage and engagement through AI + humans.I have held data science positions in companies ranging from startups to fortune 100 organizations.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://RajeshThakur1.github.io/RajeshThakur1/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://RajeshThakur1.github.io/RajeshThakur1/contact/</guid>
+      <description>Follow me on these social media platforms.
+   Platform URL     YouTube: https://www.youtube.com/results?search_query=pybron    Website:| https://pybron.com/
+Linkdin:| https://www.linkedin.com/in/rajesh-thakur-b87b26151/
+GitHub:| https://github.com/RajeshThakur1</description>
+    </item>
+    
+  </channel>
+</rss>
