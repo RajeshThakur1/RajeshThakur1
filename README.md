@@ -30,6 +30,7 @@ I'm always open to collaborating on interesting projects or discussing the lates
 
 - 📧 [Email](rajeshthakur1r@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/rajesh-thakur-b87b26151/)
+- 💼 [YouTube](https://www.youtube.com/@PyBron)
 
 ---
 
